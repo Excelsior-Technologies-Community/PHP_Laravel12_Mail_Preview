@@ -268,4 +268,3 @@ PHP_Laravel12_Mail_Preview
 
 
 
-**Project Name:** PHP_Laravel12_Mail_Preview
